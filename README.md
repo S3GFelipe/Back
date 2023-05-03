@@ -31,5 +31,6 @@ python -m venv env
 Acesso da documentação via [http://localhost:5000/#/](http://localhost:5000/#/) no navegador 
 
 
+Para o download é possível baixar todos os arquivos em um único arquivo com formato compactado (.rar), ou baixar os arquivos separadamente que são os demais arquivos presentes nesse diretório.
 
 A parte complementar do projeto referente ao Front-End esta presente no outro diretório do Git Hub: https://github.com/S3GFelipe/Front.git
